@@ -7,6 +7,7 @@ TagManager:
   - CinemachineTarget
   - goal
   - CityBlock
+  - agent
   layers:
   - Default
   - TransparentFX
